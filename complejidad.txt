@@ -1,0 +1,10 @@
+La función count, cuenta el numero de veces que se repite un numero dado.
+La función delete, hace que toda una lista sea liberada y eliminada
+La función sortedInsert, inserta el nodo dado en la posición que le corresponde dependiendo del valor del número.
+La función RemoveDuplicates, elimina los nodos duplicados de la lista, pero se pidio que idealmente solo se recorriera una vez
+La función reverse simplemente hace que la lista cambie todo su orden.
+
+Cada una de estas 5 funciones su grado de complejidad computacional es de O(n), cada elemneto es recorrido uno por uno tanto para contar que elemnto se
+repite y cuantas veces como para ver en donde agregar el nodo.
+
+
